@@ -1,5 +1,7 @@
 # M1_Bank-Management-System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b8ab5a9504ab47c883e76b9dbf24743c)](https://app.codacy.com/gh/ri7aad/M1_Bank-Management-System?utm_source=github.com&utm_medium=referral&utm_content=ri7aad/M1_Bank-Management-System&utm_campaign=Badge_Grade_Settings)
+
 ## Badges
 
 
