@@ -1,5 +1,8 @@
 ## Certificates
-* Sololearn Certificate
 * First day on github
-* Cisco NDG certificate
 * GIT skillup
+* Cisco NDG certificate
+* Sololearn Certificate
+
+
+
